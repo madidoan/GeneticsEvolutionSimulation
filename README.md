@@ -1,5 +1,5 @@
 # EvolutionSimulationGenetics
-cd to src and "python .\runSimulation\"
+cd to src and "python .\runSimulation.py"
 
 make sure you have all dependencies installed. I used pip to install pygame and numpy :)
 ## Picture of the game
